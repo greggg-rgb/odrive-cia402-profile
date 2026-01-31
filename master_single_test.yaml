@@ -6,20 +6,20 @@ master:
 
 motor_1:
   node_id: 2
-  dcf: "odrive-canopen.dcf"
+  dcf: "odrive-canopen-cia402.dcf"
   mandatory: true
 
 motor_2:
   node_id: 3
-  dcf: "odrive-canopen.dcf"
+  dcf: "odrive-canopen-cia402.dcf"
   mandatory: true
 
 motor_3:
   node_id: 4
-  dcf: "odrive-canopen.dcf"
+  dcf: "odrive-canopen-cia402.dcf"
   mandatory: true
 
 motor_4:
   node_id: 5
-  dcf: "odrive-canopen.dcf"
+  dcf: "odrive-canopen-cia402.dcf"
   mandatory: true
