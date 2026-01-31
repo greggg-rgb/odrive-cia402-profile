@@ -2,7 +2,6 @@ master:
   node_id: 1
   baudrate: 500
   sync_period: 10000 # us
-  product_code: 0x00000001
 
 motor_1:
   node_id: 2
