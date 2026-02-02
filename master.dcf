@@ -403,7 +403,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x40000189
+DefaultValue=0x40000182
 
 [1400sub2]
 ParameterName=transmission type
@@ -442,7 +442,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x40000289
+DefaultValue=0x40000282
 
 [1401sub2]
 ParameterName=transmission type
@@ -481,7 +481,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x40000389
+DefaultValue=0x40000382
 
 [1402sub2]
 ParameterName=transmission type
@@ -520,7 +520,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x40000489
+DefaultValue=0x40000482
 
 [1403sub2]
 ParameterName=transmission type
@@ -559,7 +559,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000018A
+DefaultValue=0x40000183
 
 [1404sub2]
 ParameterName=transmission type
@@ -598,7 +598,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000028A
+DefaultValue=0x40000283
 
 [1405sub2]
 ParameterName=transmission type
@@ -637,7 +637,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000038A
+DefaultValue=0x40000383
 
 [1406sub2]
 ParameterName=transmission type
@@ -676,7 +676,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000048A
+DefaultValue=0x40000483
 
 [1407sub2]
 ParameterName=transmission type
@@ -715,7 +715,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000018B
+DefaultValue=0x40000184
 
 [1408sub2]
 ParameterName=transmission type
@@ -754,7 +754,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000028B
+DefaultValue=0x40000284
 
 [1409sub2]
 ParameterName=transmission type
@@ -793,7 +793,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000038B
+DefaultValue=0x40000384
 
 [140Asub2]
 ParameterName=transmission type
@@ -832,7 +832,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000048B
+DefaultValue=0x40000484
 
 [140Bsub2]
 ParameterName=transmission type
@@ -871,7 +871,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000018C
+DefaultValue=0x40000185
 
 [140Csub2]
 ParameterName=transmission type
@@ -910,7 +910,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000028C
+DefaultValue=0x40000285
 
 [140Dsub2]
 ParameterName=transmission type
@@ -949,7 +949,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000038C
+DefaultValue=0x40000385
 
 [140Esub2]
 ParameterName=transmission type
@@ -988,7 +988,7 @@ DefaultValue=5
 ParameterName=COB-ID used by RPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x4000048C
+DefaultValue=0x40000485
 
 [140Fsub2]
 ParameterName=transmission type
@@ -1223,7 +1223,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x00000209
+DefaultValue=0x00000202
 
 [1800sub2]
 ParameterName=transmission type
@@ -1269,7 +1269,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x00000309
+DefaultValue=0x00000302
 
 [1801sub2]
 ParameterName=transmission type
@@ -1315,7 +1315,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x00000409
+DefaultValue=0x00000402
 
 [1802sub2]
 ParameterName=transmission type
@@ -1361,7 +1361,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x00000509
+DefaultValue=0x00000502
 
 [1803sub2]
 ParameterName=transmission type
@@ -1407,7 +1407,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000020A
+DefaultValue=0x00000203
 
 [1804sub2]
 ParameterName=transmission type
@@ -1453,7 +1453,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000030A
+DefaultValue=0x00000303
 
 [1805sub2]
 ParameterName=transmission type
@@ -1499,7 +1499,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000040A
+DefaultValue=0x00000403
 
 [1806sub2]
 ParameterName=transmission type
@@ -1545,7 +1545,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000050A
+DefaultValue=0x00000503
 
 [1807sub2]
 ParameterName=transmission type
@@ -1591,7 +1591,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000020B
+DefaultValue=0x00000204
 
 [1808sub2]
 ParameterName=transmission type
@@ -1637,7 +1637,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000030B
+DefaultValue=0x00000304
 
 [1809sub2]
 ParameterName=transmission type
@@ -1683,7 +1683,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000040B
+DefaultValue=0x00000404
 
 [180Asub2]
 ParameterName=transmission type
@@ -1729,7 +1729,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000050B
+DefaultValue=0x00000504
 
 [180Bsub2]
 ParameterName=transmission type
@@ -1775,7 +1775,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000020C
+DefaultValue=0x00000205
 
 [180Csub2]
 ParameterName=transmission type
@@ -1821,7 +1821,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000030C
+DefaultValue=0x00000305
 
 [180Dsub2]
 ParameterName=transmission type
@@ -1867,7 +1867,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000040C
+DefaultValue=0x00000405
 
 [180Esub2]
 ParameterName=transmission type
@@ -1913,7 +1913,7 @@ DefaultValue=6
 ParameterName=COB-ID used by TPDO
 DataType=0x0007
 AccessType=rw
-DefaultValue=0x0000050C
+DefaultValue=0x00000505
 
 [180Fsub2]
 ParameterName=transmission type
